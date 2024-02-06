@@ -1,0 +1,7 @@
+D:\TN Aspire\Dotnetdemo\HelloworldApp.web\bin\Release\net8.0\publish\HelloworldApp.web.exe
+D:\TN Aspire\Dotnetdemo\HelloworldApp.web\bin\Release\net8.0\publish\appsettings.Development.json
+D:\TN Aspire\Dotnetdemo\HelloworldApp.web\bin\Release\net8.0\publish\appsettings.json
+D:\TN Aspire\Dotnetdemo\HelloworldApp.web\bin\Release\net8.0\publish\HelloworldApp.web.dll
+D:\TN Aspire\Dotnetdemo\HelloworldApp.web\bin\Release\net8.0\publish\HelloworldApp.web.deps.json
+D:\TN Aspire\Dotnetdemo\HelloworldApp.web\bin\Release\net8.0\publish\HelloworldApp.web.runtimeconfig.json
+D:\TN Aspire\Dotnetdemo\HelloworldApp.web\bin\Release\net8.0\publish\HelloworldApp.web.pdb
